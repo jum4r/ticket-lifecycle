@@ -59,6 +59,10 @@ Once you've assigned them, you can type a response at the bottom to simulate tha
 <img src="https://i.imgur.com/UhtuijB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Let's suppose that this issue has finally been resolved. In that case, you can provide a concise message confirming the problem's resolution. Below, under "Ticket Status" at the bottom, you can select "Resolved." Once that's completed, you can easily review closed tickets at any time. To do so, navigate to the "Tickets" section, then click on "Closed" to access a list of all previously resolved tickets. If you're new to a job, this serves as an excellent method to delve into historical tickets. It offers insight into common issues and the strategies your colleagues employed for their resolution. Feel free to continue generating new tickets for personal assignment and resolution – this serves as valuable practice.
+Let's suppose that this issue has finally been resolved. In that case, you can provide a concise message confirming the problem's resolution. Below, under "Ticket Status" at the bottom, you can select "Resolved." Once that's completed, you can easily review closed tickets at any time. To do so, navigate to the "Tickets" section, then click on "Closed" to access a list of all previously resolved tickets. If you're new to a job, this serves as an excellent method to delve into past tickets. It offers insight into common issues and the strategies your colleagues employed for their resolution. 
+  
+And that conlcudnes this osTicket walkthrough, Feel free to continue generating new tickets, assigning and resolving them. In general try and be familiar with it as this serves as valuable practice.
+
+<h2>IMPORTANT REMINDER: DELETE YOUR RESOURCE GROUPS ONCE YOU'RE FINISHED SO THEY DON'T ACCUMULATE COSTS.<h2>
 </p>
 <br />
